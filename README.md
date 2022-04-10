@@ -12,4 +12,5 @@ a <- dgeom(x = x ,prob = p)
 print(a)
 ```
 Hasil:
+<br>
 ![screenshot](img/1ab.png)
