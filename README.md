@@ -121,15 +121,19 @@ DistExp <- dexp(x,lambda)
 <br>
 ![screenshot](img/6a.png)
 <br>
+
 - Histogram random generate
 <br>
 ![screenshot](img/6a_hist.png)
 <br>
+
 6b. Histogram Distribusi Normal
 <br>
 ![screenshot](img/6b_hist.png)
 <br>
+
 6c. Nilai varian dari generate random nilai Distribusi Normal
+
 <br>
 ![screenshot](img/6c.png)
 <br>
