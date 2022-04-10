@@ -12,4 +12,4 @@ a <- dgeom(x = x ,prob = p)
 print(a)
 ```
 Hasil:
-![screenshot](img/1a.png)
+![screenshot](img/1ab.png)
