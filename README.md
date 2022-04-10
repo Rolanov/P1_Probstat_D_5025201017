@@ -11,3 +11,5 @@ q <- 1-p
 a <- dgeom(x = x ,prob = p)
 print(a)
 ```
+Hasil:
+![screenshot](img/1a.png)
