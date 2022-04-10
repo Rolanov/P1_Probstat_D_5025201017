@@ -133,7 +133,6 @@ Histogram random generate
 <br>
 
 6c. Nilai varian dari generate random nilai Distribusi Normal
-
 <br>
 ![screenshot](img/6c.png)
 <br>
