@@ -117,12 +117,12 @@ DistExp <- dexp(x,lambda)
 
 ## Soal 6
 6a. 
-- Fungsi Distribusi Normal dan Z score
+Fungsi Distribusi Normal dan Z score
 <br>
 ![screenshot](img/6a.png)
 <br>
 
-- Histogram random generate
+Histogram random generate
 <br>
 ![screenshot](img/6a_hist.png)
 <br>
